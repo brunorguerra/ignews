@@ -1,0 +1,21 @@
+{
+  "id": "84921830-c6c2-4658-ad9a-93ec52246304",
+  "uid": "modi-deleniti-ut",
+  "type": "publication",
+  "data": {
+    "title": [
+      {
+        "type": "paragraph",
+        "text": "Aliquip aliquip ipsum ipsum adipisicing aute amet adipisicing labore ut pariatur enim.",
+        "spans": []
+      }
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Qui excepteur ullamco ex in.",
+        "spans": []
+      }
+    ]
+  }
+}
